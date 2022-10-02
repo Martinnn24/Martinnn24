@@ -12,4 +12,4 @@
 ---
  <div id="header" align="left">
 
-### :woman_technologist: Sobre mí :
+### :man_technologist: Sobre mí :
