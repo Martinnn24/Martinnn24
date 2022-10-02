@@ -14,7 +14,7 @@
 
 ### :man_technologist: Sobre mí :
 Apasionado por la tecnología y disfrutando de una transición laboral al Data Analytics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-* :telescope: Actualmente estoy trabajando en el departamento de compras de una empresa retail de alimentación pero necesito nuevos retos :muscle:
+* :telescope: Actualmente estoy trabajando en el departamento de contable de una fabrica de alfajores pero necesito nuevos retos :muscle:
 
 * :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Power Bi.
 
